@@ -1,1 +1,1 @@
-Run javadie and java twoDice on the command line/
+Run "java die" and "java twoDice" on the command line/
